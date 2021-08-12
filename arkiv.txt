@@ -1,5 +1,9 @@
+<<<<<<< HEAD
 ABC
 
 123
 
 WASD
+=======
+ABCxx
+>>>>>>> devnova
